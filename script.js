@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     "Tớ đã nghĩ mãi… liệu có nên nói điều này không.",
     "Nhưng nếu không nói thì sẽ tiếc cả đời.",
     "Nên hôm nay, tớ quyết định nói ra...",
-    "Hải thích AD lắmmm💗!"
+    "Đức Đã Thầm Thương Cậu Nguyễn Hương Thảo Lắm Lớn Ó 💗!"
   ];
 
   let currentLine = 0;
